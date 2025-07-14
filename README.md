@@ -1,1 +1,1 @@
-Football Database
+SoftUni Football Database
